@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Adnan%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%C2%B7%20Cloud%20Architect%20%C2%B7%20Kubernetes%20%26%20OpenShift&descSize=17&descAlignY=60" alt="banner"/>
+  <img src="banner.svg" alt="Muhammad Adnan Khan banner"/>
 </p>
 
 <p align="center">
