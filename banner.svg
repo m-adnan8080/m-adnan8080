@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F2027"/>
+      <stop offset="0.5" stop-color="#203A43"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#g)"/>
+  <path d="M0 165 Q 250 135 500 165 T 1000 165 V200 H0 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Muhammad Adnan Khan</text>
+  <text x="500" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#cfe3ee">DevOps · Cloud Architect · Kubernetes &amp; OpenShift</text>
+</svg>
